@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/wavedao-core.clar"
 depends_on = []
 
+[contracts.wavedao-governance]
+path = "contracts/wavedao-governance.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
